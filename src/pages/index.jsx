@@ -158,9 +158,9 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hello, <br /> I'm John Doe.
+            Hello, <br /> I'm Arun Pandian M.
           </BigTitle>
-          <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+          <Subtitle>I'm Android Developer.</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -174,32 +174,32 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Freiheit"
-              link="https://www.behance.net/gallery/58937147/Freiheit"
+              title="Storm It"
+              link="https://play.google.com/store/apps/details?id=in.nfnlabs.stormit&hl=en"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              This project is my entry to Adobe's #ChallengeYourPerspective contest.
+              This project is First project of my career.
+              Storm it is a simple app that allows you to add or collect your ideas/thoughts and share them as a Tweetstorm on Twitter. Storm It is perfect for Twitterattis who at times feel Twitter’s 140 character limit (or even #Twitter280) to be limiting. Moreover, with Storm it, you’ll be able to compose, manage, save drafts and preview tweetstorms before publishing. 
             </ProjectCard>
             <ProjectCard
-              title="Harry Potter"
-              link="https://www.behance.net/gallery/52915793/Harry-Potter"
+              title="BetterHq"
+              link="https://betterhq.co/"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              I entered the DOCMA 2017 award with this Harry Potter inspired image.
+              Feedback and bug reporting which lets you know what your users want most.
             </ProjectCard>
             <ProjectCard
-              title="Tomb Raider"
-              link="https://www.behance.net/gallery/43907099/Tomb-Raider"
-              bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
-            >
-              Recreation of a Tomb Raider Wallpaper (Fan Art)
+              title="Eat Italy"
+              link="https://play.google.com/store/apps/details?id=com.ew.eatitaly"
+              bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)">
+              ****The Foodies Guide to Italy*** 
+              taly is one of the great tourist destinations in the world. Renaissance palaces, Rome’s Colosseum and Michelangelo’s David draw millions of visitors a year . But tourism has its price, and finding authentic restaurants, bakeries and gelaterie is a challenge. With Elizabeth Minchili’s EAT ITALY in your pocket you’ll be sure that every morsel of food you put in your mouth while you’re in ITALY is the best.
             </ProjectCard>
             <ProjectCard
-              title="Eagle"
-              link="https://www.behance.net/gallery/38068151/Eagle"
-              bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-            >
-              A fantasy image manipulation relocating the habitat of wild animals.
+              title="Listado"
+              link="https://listado.co/"
+              bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)" >
+             Listado is a quickly configurable white label solution for managing the content of your location aware mobile apps from a simple to use web interface.
             </ProjectCard>
           </ProjectsWrapper>
         </Inner>
@@ -250,7 +250,7 @@ const Index = () => (
         <Inner>
           <Title>About</Title>
           <AboutHero>
-            <Avatar src={avatar} alt="John Doe" />
+            <Avatar src={avatar} alt="Arun Pandian M" />
             <AboutSub>
               The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
               Emoji into my speech to better express myself. Winky face.
@@ -292,7 +292,7 @@ const Index = () => (
         </Inner>
         <Footer>
           &copy; 2018 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
+          <a href="https://github.com/https://github.com/arunpandian22/">Github Repository</a>.
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
