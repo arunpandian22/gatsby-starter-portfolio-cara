@@ -33,14 +33,14 @@ module.exports = {
         display: 'standalone',
         icons: [
           {
-            src: '/favicons/android-chrome-192x192.png',
+            src: '/favicons/arunimg.jpg',
             sizes: '192x192',
-            type: 'image/png',
+            type: 'image/jpeg',
           },
           {
-            src: '/favicons/android-chrome-512x512.png',
+            src: '/favicons/arunimg.jpg',
             sizes: '512x512',
-            type: 'image/png',
+            type: 'image/jpeg',
           },
         ],
       },
