@@ -284,7 +284,7 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
+            Say <a href="mailto:arunpandianm2@gmail.com">Hi</a> or find me on other platforms:{' '}
             <a href="https://medium.com/@arunsachin222">Medium</a> &{' '}
             <a href="https://twitter.com/arun_pandian_22">Twitter</a> &{' '}
             <a href="https://www.linkedin.com/in/arun-pandian-m-20905b130/">Linkedin</a>
